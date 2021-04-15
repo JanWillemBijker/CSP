@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>CSP 1: April 2021</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+    
+    
+    <body>
+        <div id= "container">
+            
+            <header><b> CSP 1: Header</b>
+                <div class="nav">
+                     <a class="active" href="file:///C:/wamp64/www/inhalen/index.html">Menu</a>
+                     <!-- <a href="LINK">NAAM</a> -->
+                </div>
+            </header>
+
+            <div id="content"> 
+                <div id="main">
+                <span class="dot"> </span> Thomas en Jan Willem zijn de goeiste
+                <span class="dot"> </span> Test huts
+            </div>
+            </div>
+
+            <footer> &#169; HippieShakes INC </footer>
+        </div>
+
+        
+          
+        
+    </body>
+</html>
